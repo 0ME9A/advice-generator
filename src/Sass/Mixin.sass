@@ -1,0 +1,21 @@
+@mixin screen-min($min)
+    @media screen and (max-width: $min)
+        @content
+
+@mixin font($fs: 16px, $fc: white, $fw: bold, $line-h:normal, $letter-s:normal, $transform: normal)
+    font-size: $fs
+    color: $fc
+    font-weight: $fw
+    line-height: $line-h
+    letter-spacing: $letter-s
+    text-transform: $transform
+@mixin flex($justify: flex-start, $align: flex-start, $direction: row,$gap: 0)
+    display: flex
+    flex-direction: $direction
+    justify-content: $justify
+    align-items: $align
+    gap: $gap
+@mixin size($w: auto, $h: auto, $bg: transparent)
+    width: $w
+    height: $h
+    background: $bg
