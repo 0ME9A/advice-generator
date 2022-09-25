@@ -13,6 +13,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
 - [Author](#author)
+- [Favorite Spot](#favorite-spot)
 
 
 ## Overview
@@ -27,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.png)
+![](https://raw.githubusercontent.com/0ME9A/screenshots/main/advice-generator.png)
 
 
 
@@ -41,15 +42,16 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- Sass
 - Flexbox
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
+- [Sass](https://sass-lang.com/) (stylesheet language)
 - Axios
 
 ### What I learned
-
-My Apis and Logical skills becoming more stronger.
+- Rest API
+- React JS
+- My Apis and Logical skills becoming more and more stronger.
 
 
 
@@ -61,3 +63,9 @@ My Apis and Logical skills becoming more stronger.
 
 - Website - [OMEGA](https://www.ome9a.com)
 - Frontend Mentor - [@0ME9A](https://www.frontendmentor.io/profile/0me9a)
+
+## Favorite Spot
+- Github [@OMEGA](https://www.github.com/0me9a)
+- Frontend Mentor [@ome9a](https://www.frontendmentor.io/profile/0me9a)
+- Figma [@omega1](https://www.figma.com/@omega1)
+- Hacker Rank [@ome9a](https://www.hackerrank.com/ome9a)
